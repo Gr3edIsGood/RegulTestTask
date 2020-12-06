@@ -30,8 +30,8 @@ $(document).ready(function(){
 
 $(function(){
 
-    var counter = 12; //you can initialize it with any number
-    var max =  500; //you can change this
+    var counter = 12;
+    var max =  500;
 
     var $total = $(".total");
     var submit = true;
